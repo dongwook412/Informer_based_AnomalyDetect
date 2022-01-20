@@ -1,0 +1,8 @@
+[informerstack_WADI_ftM_sl360_ll240_pl60_dm512_nh8_elNone_dl4_df2048_atprob_fc5_ebtimeF_dtTrue_mxTrue_exp_0_swat]
+train: Epoch: 6, Steps: 1156 | Train Loss: 0.1283947 Vali Loss: 0.0897988 Test Loss: 0.1142638
+val:mse:0.08980614691972733, mae:0.10988301783800125
+test: mse:0.11424556374549866, mae:0.12863993644714355
+
+anamaly detection
+threshold: 38.347834749645
+f1, recall, precision = (0.8901878914405011, 0.804933299773471, 0.9956413449564134)
