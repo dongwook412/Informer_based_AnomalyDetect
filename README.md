@@ -26,3 +26,17 @@ tensorflow-gpu==2.3.0rc0
 
 #### 3) Anomaly_detection_XXX_deeplearning.ipynb
 1)의 결과를 통해 얻어진 Informer 모델을 바탕으로 이진 분류 딥러닝 모델을 학습하여 이상치를 판단하는 모델
+
+
+## 결과
+
+<p align="center"><img src="./img/table3,4.png"></p>
+
+<p align="center"><img src="./img/table5.png"></p>
+
+<p align="center"><img src="./img/table6.png"></p>
+
+## Contributiong / 기여자
+
+* 양동욱(dongwook412@naver.com)
+* 황보성훈(thehb01@gmail.com)
