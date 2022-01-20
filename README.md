@@ -34,7 +34,7 @@ tensorflow-gpu==2.3.0rc0
 
 <p align="center"><img src="./img/table5.png"></p>
 
-<p align="center"><img src="./img/table6.png"></p>
+<p align="center"><img src="./img/table6,7.png"></p>
 
 ## Contributiong / 기여자
 
